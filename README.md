@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Web development <br>🌱 I’m currently learning Front-End
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&width=435&lines=Hello%2C+%F0%9F%99%82+I'm+Hamza+Chhaib+;Front-End+%F0%9F%92%AA%F0%9F%8F%BC;Learning+Web+developement+%F0%9F%96%A5)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hamzachhaib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamza chhaib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza chhaib) 
