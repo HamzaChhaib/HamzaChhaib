@@ -1,6 +1,8 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Web development <br>🌱 I’m currently learning Front-End
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&width=435&lines=Hello%2C+%F0%9F%99%82+I'm+Hamza+Chhaib+;Front-End+%F0%9F%92%AA%F0%9F%8F%BC;Learning+Web+developement+%F0%9F%96%A5)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
