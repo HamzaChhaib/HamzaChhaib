@@ -8,8 +8,4 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071972209547&sfnsn=wa&mibextid=RUbZ1f) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hamza_chhaib?igsh=MWZjOHE1cXVwMTU2aQ%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-chhaib-99b870314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/HamzaChhaib@Hotmail.com) 
-
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
